@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.douyin.huoshan.hook.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.douyin.huoshan.hook.app-main-33:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.douyin.huoshan.hook.app-merged_res-31:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.douyin.huoshan.hook.app-main-33:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.douyin.huoshan.hook.app-merged_res-31:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.douyin.huoshan.hook.app-main-33:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.douyin.huoshan.hook.app-merged_res-31:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.douyin.huoshan.hook.app-main-33:/mipmap-xhdpi/ic_launcher.xml"
+    }
+]

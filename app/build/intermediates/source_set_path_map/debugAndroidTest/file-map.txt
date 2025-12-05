@@ -1,0 +1,4 @@
+com.douyin.huoshan.hook.test.app-androidTest-0 C:\Users\大哥大\Downloads\kookdyhs\XposedHookModule\app\build\generated\res\resValues\androidTest\debug
+com.douyin.huoshan.hook.test.app-mergeDebugAndroidTestResources-1 C:\Users\大哥大\Downloads\kookdyhs\XposedHookModule\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.douyin.huoshan.hook.test.app-mergeDebugAndroidTestResources-2 C:\Users\大哥大\Downloads\kookdyhs\XposedHookModule\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.douyin.huoshan.hook.test.app-merged_res-3 C:\Users\大哥大\Downloads\kookdyhs\XposedHookModule\app\build\intermediates\merged_res\debugAndroidTest

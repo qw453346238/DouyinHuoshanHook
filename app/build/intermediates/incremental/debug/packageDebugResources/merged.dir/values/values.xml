@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">抖音火山Hook</string>
+    <style name="Theme.AppCompat.Light" parent="Theme.AppCompat.Light.NoActionBar">
+        
+    </style>
+</resources>
